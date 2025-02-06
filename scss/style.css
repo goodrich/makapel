@@ -78,7 +78,7 @@ body {
   font-style: normal;
   font-size: 16px;
   line-height: 26px;
-  color: #089eb5;
+  color: #666666;
   overflow-x: hidden;
   font-weight: 400;
 }
@@ -3764,7 +3764,7 @@ ul.list.list-circle li i {
 .pricing-plan .pricing-price .price sub {
   font-size: 14px;
   line-height: 1;
-  color: #089eb5;
+  color: #666666;
 }
 .pricing-plan .pricing-icon {
   margin-top: 50px;
@@ -3934,7 +3934,7 @@ ul.list.list-circle li i {
   border: none;
 }
 .select2-container--default .select2-selection--single .select2-selection__rendered {
-  color: #089eb5;
+  color: #666666;
   line-height: inherit;
   text-transform: capitalize;
 }
@@ -4179,7 +4179,7 @@ ul.list.list-circle li i {
 /*Testimonial Style 02*/
 .testimonial-style-2 .testimonial-item .testimonial-content {
   margin-bottom: 20px;
-  color: #089eb5;
+  color: #666666;
   font-size: 14px;
   font-style: normal;
   position: relative;
@@ -4572,7 +4572,7 @@ ul.list.list-circle li i {
   padding: 5px 20px 5px 0;
   border-radius: 3px;
   position: relative;
-  color: #089eb5;
+  color: #666666;
 }
 .navbar .dropdown > .dropdown-menu li > a:hover {
   color: #089eb5;
@@ -7226,7 +7226,7 @@ Blog Style 01
   padding: 30px;
 }
 .checkout.checkout-form form .form-control.basic-select {
-  color: #089eb5;
+  color: #666666;
 }
 .checkout.checkout-form form .form-control {
   height: 50px;
@@ -7299,7 +7299,7 @@ Blog Style 01
   padding: 15px 0;
   font-size: 14px;
   font-weight: 500;
-  color: #089eb5;
+  color: #666666;
 }
 .checkout-review .table tr td.amount {
   font-size: 18px;
